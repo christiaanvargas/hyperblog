@@ -1,5 +1,7 @@
 Esta es la historia de Christiaan Vargas
 
-Christiaan Vargas tiene 45 años de edad al momento de escrivir esta archivo; nacido en Barranquilla Colombia.
+Christiaan Vargas tiene 43 años de edad al momento de escribir esta archivo; nacido en Barranquilla Colombia.
 
-Hoy hablaremos de su historia
+Hoy hablaremos de su historia.
+
+Se agrega una nueva línea de datos.
