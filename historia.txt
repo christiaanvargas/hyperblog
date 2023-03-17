@@ -11,3 +11,5 @@ Cambios 2 en la líneas master: viendo una cosa interesante.
 Cambios en la línea master pararealizar pruebas.
 
 Liena de Experimento: Primeros cambios.
+
+Línea de Ecperimento 2: Segundos cambios de historia.
