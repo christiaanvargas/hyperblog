@@ -2,19 +2,22 @@
 
 Es un proyecto de prueba para el curso de **Git y GitHub** de **PLATZI**
 
->El curso de **Git y GitHub** que Platzi imparte es una parte integral de su formación para desarrolladores e ingeniría de Sotfware.
+> El curso de **Git y GitHub** que Platzi imparte es una parte integral de su formación para desarrolladores e ingeniría de Sotfware.
 
 ### Colaboradores
+
 - Christopher Fulano
 - Poul Bueno
 - Yory Keando Mushu
 - Enefeb Marabri
 - Mayojul Junago
 - Sepoctu Novidici
+- El increible Houll
 
 Un blog increíble para el [curso de Git y Github](https://platzi.com/cursos/git-github/ "Curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi").
 
 ### En este curso se de todo
+
 - Todos los comandos de Git
 - El flujo de trabajo en Github
 - El verdadero amor por las buenas prácticas
